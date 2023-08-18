@@ -1,20 +1,8 @@
 {
   "books": [
     {
-      "title": "sdvdsv",
-      "id": 1
-    },
-    {
-      "title": "asdad",
-      "id": 2
-    },
-    {
-      "title": "asdasd",
+      "title": "new book",
       "id": 3
-    },
-    {
-      "title": "asdasd",
-      "id": 4
     }
   ]
 }
